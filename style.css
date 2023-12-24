@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+
+
+* {cursor: url(https://ani.cursors-4u.net/nature/nat-11/nat1046.cur), auto !important;}
+
+    body{
+    background: url("https://sadhost.neocities.org/images/tiles/gifbground-804-0009.gif");
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.container{
+    background: #e9f9ff;
+    border: #a3e4ff solid 1.5px;
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 10px;
+    background:white;
+}
+
+textarea{
+    border: #a3e4ff solid 1px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+b{
+    color: #ffd3f4;
+}
+.pfp{
+    width:100px;
+    border-radius: 100%;
+}
+
+a{
+    color:#60cfff;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline wavy;
+    color: #e9f9ff;
+    cursor: url(https://cur.cursors-4u.net/nature/nat-10/nat991.cur), auto !important;
+}
+
+p{color:black;}
+
+.profiles{
+    display: inline-block;
+}
+
+#ryn a:hover{
+    color:#dea9ff;
+}
+
+#rex a:hover{
+    color:#ffd3f4;
+}
+
+::selection {
+    color: #ffd3f4;
+}
